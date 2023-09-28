@@ -1,7 +1,6 @@
 # docker-adoptOpenJDK-17
 
-Dockerfile for a [dockerimage]() containing Adoptium OpenJDK 17 on
-[Debian 12](https://github.com/arthurpicht/docker-debian-12)
+Dockerfile for a dockerimage containing Adoptium OpenJDK 17 on [Debian 12](https://github.com/arthurpicht/docker-debian-12)
 
 ## Build image locally
 
@@ -10,10 +9,8 @@ Dockerfile for a [dockerimage]() containing Adoptium OpenJDK 17 on
 
 ## Update History:
 
-* 2021-05-21: jdk-11.0.11+9 from 21 April 2021, provided by [openjdk.net](https://adoptopenjdk.net/)
-* 2021-12-01: jdk-11.0.13+8 from 21 October 2021, provided by [adoptium.net](https://adoptium.net/); debian 11
+* 2023-09-28: jdk-17.0.8+1 from 29 August 2023, provided by [openjdk.net](https://adoptopenjdk.net/)
 
 ## References
 
-* [My images on dockerhub](https://hub.docker.com/search?q=arthurpicht&type=image)
-* [adoptium archive](https://adoptium.net/archive.html?variant=openjdk17)
+* [adoptium releases](https://adoptium.net/de/temurin/releases/)
